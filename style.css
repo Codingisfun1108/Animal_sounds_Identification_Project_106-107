@@ -1,0 +1,38 @@
+body
+{
+background:pink;
+}
+
+
+.header_div
+{
+    background: whitesmoke;
+    color: tomato;
+}
+
+.header_div p 
+{
+color:gray;
+letter-spacing: 3px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    background-color:whitesmoke;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
